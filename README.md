@@ -1,2 +1,2 @@
 # ninja-minds
-FLL Ninja Minds Code Repo
+This is the project code for the Ninja Minds FLL team from CT.
